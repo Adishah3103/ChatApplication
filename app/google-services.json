@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "675378556754",
+    "firebase_url": "https://friendly-chat-fcb60.firebaseio.com",
+    "project_id": "friendly-chat-fcb60",
+    "storage_bucket": "friendly-chat-fcb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675378556754:android:29352831076fc6a9",
+        "android_client_info": {
+          "package_name": "com.example.aditya.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675378556754-nf7idcr2f2ucgktjvtprj5rds51cci83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.chat",
+            "certificate_hash": "f4c39a6a75452e4836dc9a3e79194ab5ad8571a8"
+          }
+        },
+        {
+          "client_id": "675378556754-u5nb6h5215sl7udleonm225fsi0f36mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR2UWWahD61xkwuoTMvmtngZ8yu3q8TVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675378556754-u5nb6h5215sl7udleonm225fsi0f36mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
